@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Édition Ratatouille : icône Wi-Fi de l'accueil (permission normale, sans demande). -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Mises à jour depuis GitHub et mode « Jumeau numérique » (connexion à un PC). -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Réglages › Sons : choisir un fichier son dans le stockage du robot (demandé à l'écran). -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- Installation des mises à jour sur un appareil non rooté (Android 8 et plus). -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <!-- Bouton « Retour à Toque » par-dessus l'appli d'origine (le robot n'a pas de bouton Accueil). -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!-- Toque-Smart : vmSafeMode coupe le JIT d'ART pour cette appli. Sur le Monsieur Cuisine Smart
+         (Android 8.1, ARM 32 bits), le JIT compile mal certaines expressions Kotlin « a ?: b »
+         (I18nKt.tr renvoyait null après ~300 appels : plantages de l'interface). Le même défaut
+         pourrait toucher la logique de pilotage : tout le code de Toque reste interprété. -->
+    <application
+        android:name=".ToqueApp"
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="Monsieur Cuisine Édition Ratatouille"
+        android:largeHeap="false"
+        android:supportsRtl="false"
+        android:vmSafeMode="true"
+        android:theme="@android:style/Theme.Material.NoActionBar.Fullscreen">
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|screenSize|keyboard|keyboardHidden|navigation|screenLayout|smallestScreenSize|locale|layoutDirection|fontScale|uiMode"
+            android:excludeFromRecents="false"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:resumeWhilePausing="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:windowSoftInputMode="adjustPan|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <!-- Écran d'accueil du robot -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Pilotage dans un processus séparé : un plantage de l'interface n'arrête pas la cuisson. -->
+        <service
+            android:name=".machine.MachineService"
+            android:exported="false"
+            android:process=":machine"
+            android:stopWithTask="false" />
+
+        <service
+            android:name=".recipes.SyncService"
+            android:exported="false" />
+
+        <service
+            android:name=".ui.ReturnBubble"
+            android:exported="false" />
+
+        <!-- Édition Ratatouille (R2) : molette = volume quand une autre appli est devant. Activé par root. -->
+        <service
+            android:name="app.ratatouille.machine.MoletteVolumeService"
+            android:label="Molette = volume (Ratatouille)"
+            android:exported="true"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/molette_volume" />
+        </service>
+
+        <receiver
+            android:name=".recipes.SyncAlarm"
+            android:exported="false" />
+
+        <receiver
+            android:name=".update.InstallResultReceiver"
+            android:exported="false" />
+
+        <receiver
+            android:name=".update.UpdatedReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Bulle du lecteur de musique de l'accueil : accès aux notifications donné par l'utilisateur. -->
+        <service
+            android:name="app.ratatouille.musique.MusiqueEcoute"
+            android:label="Bulle de musique de Ratatouille"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name=".recipes.BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

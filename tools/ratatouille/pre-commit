@@ -1,0 +1,10 @@
+#!/bin/sh
+# Édition Ratatouille (EX-40) : refuse tout commit qui contient une image ou un fichier du pack privé.
+# Installation : cp tools/ratatouille/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+bad=$(git diff --cached --name-only --diff-filter=ACMR | grep -Ei '\.(png|jpe?g|webp|gif|bmp)$|(^|/)(pack-prive|references)/|^pack/' || true)
+if [ -n "$bad" ]; then
+    echo "REFUS : images ou fichiers du pack privé dans le commit (EX-40) :" >&2
+    echo "$bad" >&2
+    exit 1
+fi
+exit 0

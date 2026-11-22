@@ -1,0 +1,883 @@
+18:35:33.203519 RX len=53 seq=156 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:33.270537 RX len=53 seq=157 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:33.371994 TX len=38 seq=157 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:33.471843 RX len=53 seq=158 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:33.573059 TX len=38 seq=158 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:33.672860 RX len=53 seq=159 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:33.774129 TX len=38 seq=159 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:33.873959 RX len=53 seq=160 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:33.975057 TX len=38 seq=160 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:34.074875 RX len=53 seq=161 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:34.176505 TX len=38 seq=161 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:34.276831 RX len=53 seq=162 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:34.378099 TX len=38 seq=162 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:34.478242 RX len=53 seq=163 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:34.579757 TX len=38 seq=163 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:34.679788 RX len=53 seq=164 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:34.781329 TX len=38 seq=164 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:34.881493 RX len=53 seq=165 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:34.982962 TX len=38 seq=165 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:35.083150 RX len=53 seq=166 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:35.184542 TX len=38 seq=166 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:35.285114 RX len=53 seq=167 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:35.386325 TX len=38 seq=167 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:35.486682 RX len=53 seq=168 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:35.587916 TX len=38 seq=168 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:35.688461 RX len=53 seq=169 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:35.789634 TX len=38 seq=169 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:35.890302 RX len=53 seq=170 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:35.991331 TX len=38 seq=170 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:36.091964 RX len=53 seq=171 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:36.192944 TX len=38 seq=171 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:36.293483 RX len=53 seq=172 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:36.394607 TX len=38 seq=172 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:36.494799 RX len=53 seq=173 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:36.596175 TX len=38 seq=173 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:36.696371 RX len=53 seq=174 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:36.797828 TX len=38 seq=174 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:36.898448 RX len=53 seq=175 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:37.005012 TX len=38 seq=175 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:37.105498 RX len=53 seq=176 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:37.215127 TX len=38 seq=176 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:37.316442 RX len=53 seq=177 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:37.421355 TX len=38 seq=177 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:37.522675 RX len=53 seq=178 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:37.617496 TX len=38 seq=178 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:37.718868 RX len=53 seq=179 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:37.834101 TX len=38 seq=179 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:37.934700 RX len=53 seq=180 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:38.044044 TX len=38 seq=180 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:38.144507 RX len=53 seq=181 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:38.240995 TX len=38 seq=181 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:38.342667 RX len=53 seq=182 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:38.461885 TX len=38 seq=182 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:38.562488 RX len=53 seq=183 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:38.656128 TX len=38 seq=183 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:38.756757 RX len=53 seq=184 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:38.868312 TX len=38 seq=184 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:38.968910 RX len=53 seq=185 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:39.094116 TX len=38 seq=185 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:39.195451 RX len=53 seq=186 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:39.300735 TX len=38 seq=186 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:39.402227 RX len=53 seq=187 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:39.497061 TX len=38 seq=187 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:39.597566 RX len=53 seq=188 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:39.718321 TX len=38 seq=188 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:39.819578 RX len=53 seq=189 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:39.929146 TX len=38 seq=189 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:40.030444 RX len=53 seq=190 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:40.125931 TX len=38 seq=190 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:40.226977 RX len=53 seq=191 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:40.341733 TX len=38 seq=191 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:40.442410 RX len=53 seq=192 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:40.542980 TX len=38 seq=192 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:40.643590 RX len=53 seq=193 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:40.743776 TX len=38 seq=193 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:40.844636 RX len=53 seq=194 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:40.945063 TX len=38 seq=194 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:41.048924 RX len=53 seq=195 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:41.150814 TX len=38 seq=195 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:41.251500 RX len=53 seq=196 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:41.352821 TX len=38 seq=196 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:41.453379 RX len=53 seq=197 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:41.553673 TX len=38 seq=197 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:41.653530 RX len=53 seq=198 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=0 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:35:41.748914 TX len=38 seq=198 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:35:41.848687 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00000000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:41.950856 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:42.050796 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:42.152725 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:42.252953 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:42.354541 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:42.454773 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:42.556473 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:42.656736 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:42.762260 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:42.863067 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:42.960356 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:43.061057 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:43.162344 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:43.263116 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:43.364206 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:43.464534 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:43.569967 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:43.670213 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:43.772966 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:43.873148 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:43.974874 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:44.075527 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:44.176840 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:44.277207 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:44.378673 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:44.479200 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:44.581638 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:44.682244 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:44.805310 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:44.906109 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:45.007186 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:45.108004 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:45.238669 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:45.339317 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:45.450732 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:45.551253 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:45.647168 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:45.748512 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:45.870781 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:45.971448 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:46.093699 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:46.194886 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:46.278189 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:46.379512 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:46.501371 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:46.601824 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=0 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:46.703445 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:46.804031 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:46.916367 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:47.016865 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:47.151860 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:47.252466 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:47.356395 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:47.456955 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:47.553397 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:47.653954 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:47.777092 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:47.877825 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:47.991656 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:48.092374 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:48.185330 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:48.286179 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:48.386599 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:48.487361 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:48.582596 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:48.683250 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:48.788535 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:48.888641 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:48.999580 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:49.100245 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:49.188180 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:49.288926 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:49.394962 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:49.495756 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:49.596602 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:49.697168 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:49.805019 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:49.905793 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:50.008599 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:50.108670 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:50.203695 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:50.304045 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:50.404573 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:50.504843 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:50.606499 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:50.707311 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:50.808323 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:50.908463 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:51.010187 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:51.110198 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:51.218214 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:51.318780 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:51.424885 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:51.525591 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:51.631724 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:51.732378 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:51.833781 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:51.934312 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:52.068295 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:52.168860 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:52.264920 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:52.366217 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:52.467192 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:52.567738 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:52.673607 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:52.774130 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:52.885255 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:52.986599 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:53.087224 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:53.187810 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:53.312506 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:53.413065 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:53.518132 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:53.618821 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:53.714776 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:53.815373 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:53.938303 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:54.039420 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:54.144816 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:54.245742 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:54.342661 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:54.445261 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:54.541223 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:54.641149 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:54.742929 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:54.842741 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:54.943557 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:55.043564 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:55.144784 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:55.244770 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:55.345972 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:55.446347 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:55.547533 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:55.647729 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:55.749466 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:55.849784 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:55.951356 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:56.051626 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:56.153266 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:56.253521 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:56.355173 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:56.456101 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:56.557085 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:56.657583 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:56.759153 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:56.859971 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:56.961000 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:57.061227 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:57.162966 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:57.263700 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:57.364810 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:57.465644 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:57.572391 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:57.673120 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:57.773825 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:57.874314 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:57.975879 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:58.076662 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:58.179472 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:58.280290 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:58.386154 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:58.486686 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:58.586981 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:58.687179 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:58.789156 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:58.889926 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:58.990054 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:59.090600 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:59.191981 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:59.292824 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:59.393887 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:59.494694 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:59.596100 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:59.696730 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:35:59.799193 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:35:59.899812 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:00.021666 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:00.126909 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:00.222244 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:00.322325 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:00.423185 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:00.522923 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:00.624423 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:00.724360 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:00.825617 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:00.925655 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:01.026769 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:01.126623 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:01.227843 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:01.327618 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:01.429005 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:01.529026 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:01.630082 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:01.730135 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:01.831165 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:01.931242 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:02.032739 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:02.133314 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:02.234660 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:02.335468 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:02.436551 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:02.537222 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:02.638514 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:02.739134 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:02.840543 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:02.940904 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:03.042423 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:03.142578 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:03.244285 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:03.344585 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:03.446192 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:03.546441 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:03.648143 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:03.749675 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:03.855726 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:03.956385 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:04.057887 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:04.158482 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:04.258308 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:04.358833 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:04.459484 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:04.560232 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:04.661097 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:04.761644 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:04.861988 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:04.961966 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:05.056604 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:05.156863 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:05.258274 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:05.358953 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:05.460154 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:05.560974 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:05.662137 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:05.763102 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:05.863940 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:05.964138 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:06.065917 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:06.166191 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:06.273653 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:06.374138 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:06.470872 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:06.571911 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:06.696824 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:06.797301 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:06.898857 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:06.999465 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:07.110485 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:07.210603 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:07.311658 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:07.411711 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:07.512839 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:07.613219 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:07.714010 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:07.814614 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:07.915148 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:08.015440 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:08.116341 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:08.216255 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:08.317903 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:08.418024 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:08.519821 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:08.620069 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:08.721751 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:08.822049 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:08.923599 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:09.023783 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:09.125495 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:09.226156 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:09.327452 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:09.427691 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:09.529358 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:09.630076 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:09.731148 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:09.831284 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:09.933047 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:10.033717 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:10.134889 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:10.235652 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:10.342627 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:10.443284 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:10.543912 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:10.644536 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:10.745084 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:10.845742 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:10.947045 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:11.049877 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:11.147972 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:11.248777 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:11.354994 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:11.455016 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:11.549670 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:11.649659 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:11.751236 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:11.851778 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:11.953139 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:12.053440 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:12.155043 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:12.255889 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:12.356935 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:12.457233 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:12.558884 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:12.659077 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:12.760739 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:12.861259 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:12.962683 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:13.063406 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:13.179764 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:13.280321 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:13.375809 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:13.477171 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:13.574117 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:13.686101 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:13.778509 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:13.879254 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:13.979878 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:14.080438 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:14.186161 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:14.287099 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:14.387623 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:14.488193 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:14.582425 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:14.682609 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:14.785002 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:14.885182 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:14.985945 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:15.085888 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:15.187797 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:15.288597 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:15.389725 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:15.489918 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:15.591560 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:15.692328 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:15.794388 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:15.895925 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:16.018672 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:16.119408 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:16.220576 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:16.321606 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:16.436798 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:16.537458 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:16.643314 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:16.743274 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:16.838860 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:16.938869 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:17.039536 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:17.139896 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:17.244466 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:17.344376 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:17.441852 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:17.541932 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:17.648429 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:17.748442 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:17.844041 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:17.944360 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:18.045719 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:18.146734 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:18.247647 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:18.347957 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:18.449579 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:18.549689 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:18.651401 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:18.751701 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:18.854388 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:18.954687 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:19.055636 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:19.156475 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:19.257488 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:19.358246 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:19.459382 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:19.559979 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:19.661267 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:19.761870 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:19.869268 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:19.969929 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:20.083640 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:20.184201 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:20.277621 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:20.378205 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:20.478919 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:20.579515 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:20.680134 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:20.780678 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:20.881328 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:20.982184 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:21.076098 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:21.176472 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:21.278612 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:21.379337 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:21.479594 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:21.580428 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:21.681518 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:21.782444 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:21.883338 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:21.983781 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:22.085277 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:22.185934 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:22.288082 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:22.389562 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:22.500738 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:22.601780 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:22.707538 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:22.808008 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:22.909189 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:23.010044 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:23.138178 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:23.238881 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:23.343088 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:23.443743 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:23.547158 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:23.647868 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:23.748479 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:23.849247 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:23.949904 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:24.050583 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:24.152005 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:24.252359 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:24.346018 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:24.446618 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:24.548927 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:24.649562 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:24.751751 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:24.852110 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:24.952476 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:25.055697 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:25.157048 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:25.257816 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:25.358909 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:25.460260 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:25.566676 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:25.667184 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:25.773536 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:25.874800 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:25.975336 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:26.075960 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:26.209344 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:26.310069 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:26.414906 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:26.515552 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:26.616080 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:26.716714 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:26.817356 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:26.917899 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:27.027394 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:27.127879 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:27.226735 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:27.327283 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:27.424990 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:27.524945 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:27.622926 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:27.723642 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:27.824693 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:27.925264 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:28.026648 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:28.127564 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:28.229076 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:28.332487 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:28.431422 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:28.532176 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:28.638325 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:28.738976 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:28.845086 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:28.945840 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:29.047040 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:29.147526 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:29.263669 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:29.365021 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:29.470357 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:29.570223 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:29.665238 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:29.765385 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:29.866447 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:29.966461 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:30.067618 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:30.168086 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:30.268888 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:30.369261 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:30.470136 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:30.570304 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:30.671292 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:30.771498 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:30.872894 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:30.973714 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:31.074879 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:31.174929 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:31.276724 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:31.376883 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:31.478617 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:31.579256 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:31.680646 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:31.781435 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:31.882515 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:31.982770 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:32.084610 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:32.184534 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:32.286474 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:32.388551 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:32.488261 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:32.589182 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:32.690009 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:32.791063 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:32.897711 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:32.998392 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:33.107984 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:33.208693 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:33.307697 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:33.408296 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:33.507831 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:33.608444 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:33.708406 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:33.808287 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:33.909591 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:34.009587 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:34.111137 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:34.211516 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:34.312583 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:34.412648 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:34.514147 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:34.614349 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:34.716048 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:34.816255 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:34.917906 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:35.018205 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:35.119810 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:35.220111 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:35.321637 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:35.421907 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:35.523608 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:35.624081 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:35.743305 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:35.844605 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:35.933248 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:36.033987 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:36.128335 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:36.228246 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:36.329578 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:36.429540 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:36.530722 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:36.630533 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:36.731888 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:36.831737 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:36.933100 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:37.032908 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:37.134205 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:37.234466 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:37.335833 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:37.436182 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:37.537698 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:37.637859 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:37.739618 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:37.839766 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:37.941488 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:38.041656 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:38.143207 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:38.243894 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:38.345040 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:38.445275 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:38.546994 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:38.647597 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:38.748973 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:38.849333 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:38.950900 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:39.051051 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:39.159518 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:39.261031 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:39.365700 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:39.466418 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:39.566974 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:39.667775 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:39.773381 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:39.874023 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:39.983293 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:40.084091 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:40.179093 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:40.279826 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:40.379610 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:40.479606 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:40.581179 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:40.681527 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:40.783017 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:40.883340 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:40.985008 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:41.085309 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:41.186898 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:41.287236 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:41.388833 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:41.489861 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:41.601932 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:41.702961 RX len=53 seq=199 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=1 cible=0 reel=37 u=0] moteur[v*2=2 sens=0 turbo=0] fn=1 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:01:00 lum=0 bt=0
+18:36:41.804036 TX len=38 seq=199 OK  CMD=0802 temp[lvl=1,b11=0,C=0] vit*2=2 inv=0 fn=1 tare=0 duree=00:01:00
+18:36:41.904894 RX len=53 seq=200 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=-10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:42.026034 TX len=38 seq=200 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:42.126692 RX len=53 seq=201 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:42.220519 TX len=38 seq=201 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:42.322172 RX len=53 seq=202 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:42.422370 TX len=38 seq=202 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:42.522536 RX len=53 seq=203 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:42.617676 TX len=38 seq=203 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:42.717607 RX len=53 seq=204 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:42.818840 TX len=38 seq=204 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:42.918659 RX len=53 seq=205 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:43.019937 TX len=38 seq=205 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:43.119815 RX len=53 seq=206 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:43.221109 TX len=38 seq=206 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:43.321122 RX len=53 seq=207 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:43.422289 TX len=38 seq=207 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:43.522262 RX len=53 seq=208 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:43.623362 TX len=38 seq=208 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:43.723459 RX len=53 seq=209 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:43.824908 TX len=38 seq=209 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:43.925187 RX len=53 seq=210 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:44.029697 TX len=38 seq=210 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:44.129885 RX len=53 seq=211 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:44.228553 TX len=38 seq=211 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:44.328976 RX len=53 seq=212 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:44.430457 TX len=38 seq=212 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:44.530616 RX len=53 seq=213 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:44.632633 TX len=38 seq=213 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:44.732894 RX len=53 seq=214 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:44.835186 TX len=38 seq=214 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:44.935491 RX len=53 seq=215 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:45.038084 TX len=38 seq=215 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:45.139047 RX len=53 seq=216 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:45.239534 TX len=38 seq=216 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:45.339771 RX len=53 seq=217 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:45.441356 TX len=38 seq=217 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:45.542133 RX len=53 seq=218 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:45.645621 TX len=38 seq=218 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:45.749774 RX len=53 seq=219 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:45.851132 TX len=38 seq=219 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:45.951816 RX len=53 seq=220 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:46.045882 TX len=38 seq=220 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:46.145929 RX len=53 seq=221 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:46.246371 TX len=38 seq=221 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:46.346292 RX len=53 seq=222 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:46.447534 TX len=38 seq=222 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:46.547419 RX len=53 seq=223 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:46.654505 TX len=38 seq=223 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:46.754371 RX len=53 seq=224 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:46.849980 TX len=38 seq=224 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:46.949772 RX len=53 seq=225 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:47.051026 TX len=38 seq=225 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:47.151218 RX len=53 seq=226 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:47.252570 TX len=38 seq=226 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:47.352762 RX len=53 seq=227 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:47.454426 TX len=38 seq=227 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:47.554757 RX len=53 seq=228 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:47.656268 TX len=38 seq=228 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:47.756510 RX len=53 seq=229 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:47.858059 TX len=38 seq=229 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:47.958113 RX len=53 seq=230 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:48.060215 TX len=38 seq=230 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:48.160536 RX len=53 seq=231 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:48.265720 TX len=38 seq=231 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:48.366371 RX len=53 seq=232 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:48.463388 TX len=38 seq=232 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:48.564064 RX len=53 seq=233 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:48.665250 TX len=38 seq=233 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:48.766051 RX len=53 seq=234 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:48.867044 TX len=38 seq=234 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:48.967621 RX len=53 seq=235 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:49.068937 TX len=38 seq=235 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:49.169645 RX len=53 seq=236 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:49.270762 TX len=38 seq=236 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:49.371398 RX len=53 seq=237 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:49.472775 TX len=38 seq=237 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:49.573442 RX len=53 seq=238 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:49.674238 TX len=38 seq=238 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:49.774557 RX len=53 seq=239 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:49.876024 TX len=38 seq=239 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:49.976580 RX len=53 seq=240 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:50.089949 TX len=38 seq=240 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:50.190446 RX len=53 seq=241 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:50.280801 TX len=38 seq=241 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:50.381978 RX len=53 seq=242 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:50.504966 TX len=38 seq=242 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:50.605637 RX len=53 seq=243 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:50.716510 TX len=38 seq=243 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:50.817106 RX len=53 seq=244 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:50.912942 TX len=38 seq=244 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:51.013884 RX len=53 seq=245 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:51.129528 TX len=38 seq=245 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:51.230354 RX len=53 seq=246 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:51.335287 TX len=38 seq=246 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:51.435908 RX len=53 seq=247 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:51.531573 TX len=38 seq=247 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:51.632139 RX len=53 seq=248 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:51.755915 TX len=38 seq=248 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:51.856448 RX len=53 seq=249 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:51.966394 TX len=38 seq=249 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:52.066900 RX len=53 seq=250 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:52.162262 TX len=38 seq=250 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:52.263531 RX len=53 seq=251 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:52.385049 TX len=38 seq=251 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:52.486004 RX len=53 seq=252 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:52.586334 TX len=38 seq=252 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:52.687368 RX len=53 seq=253 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:52.798783 TX len=38 seq=253 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:52.899846 RX len=53 seq=254 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:53.022708 TX len=38 seq=254 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:53.123187 RX len=53 seq=255 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:53.235108 TX len=38 seq=255 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:53.335780 RX len=53 seq=0 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:53.431335 TX len=38 seq=0 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:53.532392 RX len=53 seq=1 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:53.653629 TX len=38 seq=1 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:53.754175 RX len=53 seq=2 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:53.863931 TX len=38 seq=2 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:53.964395 RX len=53 seq=3 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:54.060705 TX len=38 seq=3 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:54.161178 RX len=53 seq=4 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:54.277909 TX len=38 seq=4 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:54.379370 RX len=53 seq=5 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:54.489506 TX len=38 seq=5 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:54.590013 RX len=53 seq=6 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:54.690507 TX len=38 seq=6 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:54.791023 RX len=53 seq=7 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:54.885635 TX len=38 seq=7 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:54.985536 RX len=53 seq=8 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:55.087239 TX len=38 seq=8 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:55.187107 RX len=53 seq=9 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:55.287835 TX len=38 seq=9 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:55.387659 RX len=53 seq=10 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:55.488975 TX len=38 seq=10 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:55.588778 RX len=53 seq=11 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:55.690069 TX len=38 seq=11 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:55.789885 RX len=53 seq=12 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:55.891118 TX len=38 seq=12 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:55.991238 RX len=53 seq=13 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:56.092673 TX len=38 seq=13 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:56.192923 RX len=53 seq=14 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:56.294394 TX len=38 seq=14 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:56.394700 RX len=53 seq=15 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:56.496223 TX len=38 seq=15 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:56.596481 RX len=53 seq=16 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:56.697962 TX len=38 seq=16 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:56.798110 RX len=53 seq=17 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=20 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:56.899837 TX len=38 seq=17 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:57.000354 RX len=53 seq=18 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:57.101662 TX len=38 seq=18 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:57.201934 RX len=53 seq=19 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:57.304348 TX len=38 seq=19 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:57.404924 RX len=53 seq=20 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:57.505134 TX len=38 seq=20 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:57.605863 RX len=53 seq=21 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:57.706916 TX len=38 seq=21 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:57.807152 RX len=53 seq=22 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=15 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:57.909915 TX len=38 seq=22 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:58.010442 RX len=53 seq=23 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:58.125223 TX len=38 seq=23 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:58.225924 RX len=53 seq=24 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:58.326338 TX len=38 seq=24 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:58.426854 RX len=53 seq=25 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:58.527933 TX len=38 seq=25 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:58.628548 RX len=53 seq=26 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:58.734257 TX len=38 seq=26 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:58.835091 RX len=53 seq=27 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:58.937740 TX len=38 seq=27 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:59.038348 RX len=53 seq=28 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:59.133352 TX len=38 seq=28 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:59.235218 RX len=53 seq=29 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:59.334319 TX len=38 seq=29 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:59.434899 RX len=53 seq=30 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:59.536098 TX len=38 seq=30 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:59.636797 RX len=53 seq=31 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:59.737797 TX len=38 seq=31 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:36:59.838504 RX len=53 seq=32 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:36:59.939687 TX len=38 seq=32 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:00.039821 RX len=53 seq=33 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:00.141610 TX len=38 seq=33 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:00.242951 RX len=53 seq=34 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:00.348967 TX len=38 seq=34 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:00.450271 RX len=53 seq=35 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:00.555677 TX len=38 seq=35 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:00.656782 RX len=53 seq=36 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:00.757426 TX len=38 seq=36 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:00.858690 RX len=53 seq=37 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:00.980523 TX len=38 seq=37 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:01.081012 RX len=53 seq=38 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:01.187352 TX len=38 seq=38 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:01.288019 RX len=53 seq=39 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:01.387905 TX len=38 seq=39 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:01.488532 RX len=53 seq=40 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:01.589071 TX len=38 seq=40 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:01.689812 RX len=53 seq=41 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:01.795608 TX len=38 seq=41 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:01.896222 RX len=53 seq=42 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:02.000041 TX len=38 seq=42 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:02.100706 RX len=53 seq=43 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:02.200338 TX len=38 seq=43 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:02.300178 RX len=53 seq=44 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:02.395802 TX len=38 seq=44 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:02.496458 RX len=53 seq=45 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:02.597606 TX len=38 seq=45 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:02.698322 RX len=53 seq=46 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:02.799448 TX len=38 seq=46 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00
+18:37:02.900190 RX len=53 seq=47 OK  CMD=0802 ver=3090 etat=00100000 rem=0000 err=0 ret=0 temp[lvl=0 cible=0 reel=37 u=0] moteur[v*2=0 sens=0 turbo=0] fn=0 poids=10 (u/dec=00) bal[etat=2 cal=0] tps=00:00:00 reste=00:00:00 lum=0 bt=0
+18:37:03.001130 TX len=38 seq=47 OK  CMD=0802 temp[lvl=0,b11=0,C=0] vit*2=0 inv=0 fn=0 tare=0 duree=00:00:00

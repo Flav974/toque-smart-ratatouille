@@ -1,0 +1,127 @@
+20/11 18:11:17 [interface] démarrage
+20/11 18:11:18 [machine] boucle démarrée en mode Machine réelle
+20/11 18:11:18 [heure] fuseau Europe/Paris (ipwho.is)
+20/11 18:11:29 [machine] liaison ouverte : Base moteur (/dev/ttyMT1)
+20/11 18:11:30 [évènement] LINK_CHANGED Connexion…
+20/11 18:11:30 [évènement] LINK_CHANGED Prête
+20/11 18:16:24 [évènement] LID_OPENED Couvercle ouvert
+20/11 18:18:27 [interface] démarrage
+20/11 18:18:27 [maj] Toque mis à jour en version 0.5.1-smart.1
+20/11 18:18:27 [machine] boucle démarrée en mode Machine réelle
+20/11 18:18:41 [machine] liaison ouverte : Base moteur (/dev/ttyMT1)
+20/11 18:18:42 [évènement] LINK_CHANGED Connexion…
+20/11 18:18:42 [évènement] LID_OPENED Couvercle ouvert
+20/11 18:18:42 [évènement] LINK_CHANGED Prête
+20/11 18:19:01 [interface] démarrage
+20/11 18:19:12 [machine] boucle démarrée en mode Machine réelle
+20/11 18:19:26 [machine] liaison ouverte : Base moteur (/dev/ttyMT1)
+20/11 18:19:26 [évènement] LINK_CHANGED Connexion…
+20/11 18:19:26 [évènement] LID_OPENED Couvercle ouvert
+20/11 18:19:26 [évènement] LINK_CHANGED Prête
+20/11 18:19:41 [interface] démarrage
+20/11 18:19:48 [machine] boucle démarrée en mode Machine réelle
+20/11 18:20:03 [machine] liaison ouverte : Base moteur (/dev/ttyMT1)
+20/11 18:20:03 [évènement] LINK_CHANGED Connexion…
+20/11 18:20:03 [évènement] LID_OPENED Couvercle ouvert
+20/11 18:20:04 [évènement] LINK_CHANGED Prête
+20/11 18:21:32 [évènement] LID_CLOSED Couvercle fermé
+20/11 18:22:04 [interface] PLANTAGE : java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+	at java.util.Formatter.parse(Formatter.java:2545)
+	at java.util.Formatter.format(Formatter.java:2504)
+	at java.util.Formatter.format(Formatter.java:2458)
+	at java.lang.String.format(String.java:2814)
+	at app.toque.core.i18n.I18nKt.tr(I18n.kt:70)
+	at app.toque.ui.screens.ManualScreen.onSnapshot(ManualScreen.kt:234)
+	at app.toque.ui.MainActivity.onStart$lambda$0(MainActivity.kt:110)
+	at app.toque.ui.MainActivity.$r8$lambda$7O1rwZ8ZYwtv5rp1FcRlk4vKPjQ(Unknown Source:0)
+	at app.toque.ui.MainActivity$$ExternalSyntheticLambda20.invoke(D8$$SyntheticClass:0)
+	at app.toque.machine.MachineClient.incoming$lambda$0(MachineClient.kt:42)
+	at app.toque.machine.MachineClient.$r8$lambda$Q5cA_DY2usyU0QNLbdKcmt2ZN8w(Unknown Source:0)
+	at app.toque.machine.MachineClient$$ExternalSyntheticLambda6.handleMessage(D8$$SyntheticClass:0)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6548)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:857)
+
+20/11 18:22:04 [interface] démarrage
+20/11 18:23:16 [interface] PLANTAGE : java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+	at java.util.Formatter.parse(Formatter.java:2545)
+	at java.util.Formatter.format(Formatter.java:2504)
+	at java.util.Formatter.format(Formatter.java:2458)
+	at java.lang.String.format(String.java:2814)
+	at app.toque.core.i18n.I18nKt.tr(I18n.kt:70)
+	at app.toque.ui.screens.ManualScreen.onSnapshot(ManualScreen.kt:234)
+	at app.toque.ui.MainActivity.onStart$lambda$0(MainActivity.kt:110)
+	at app.toque.ui.MainActivity.$r8$lambda$7O1rwZ8ZYwtv5rp1FcRlk4vKPjQ(Unknown Source:0)
+	at app.toque.ui.MainActivity$$ExternalSyntheticLambda20.invoke(D8$$SyntheticClass:0)
+	at app.toque.machine.MachineClient.incoming$lambda$0(MachineClient.kt:42)
+	at app.toque.machine.MachineClient.$r8$lambda$Q5cA_DY2usyU0QNLbdKcmt2ZN8w(Unknown Source:0)
+	at app.toque.machine.MachineClient$$ExternalSyntheticLambda6.handleMessage(D8$$SyntheticClass:0)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6548)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:857)
+
+20/11 18:23:17 [interface] démarrage
+20/11 18:25:14 [interface] PLANTAGE : java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+	at java.util.Formatter.parse(Formatter.java:2545)
+	at java.util.Formatter.format(Formatter.java:2504)
+	at java.util.Formatter.format(Formatter.java:2458)
+	at java.lang.String.format(String.java:2814)
+	at app.toque.core.i18n.I18nKt.tr(I18n.kt:70)
+	at app.toque.ui.screens.ManualScreen.onSnapshot(ManualScreen.kt:234)
+	at app.toque.ui.MainActivity.onStart$lambda$0(MainActivity.kt:110)
+	at app.toque.ui.MainActivity.$r8$lambda$7O1rwZ8ZYwtv5rp1FcRlk4vKPjQ(Unknown Source:0)
+	at app.toque.ui.MainActivity$$ExternalSyntheticLambda20.invoke(D8$$SyntheticClass:0)
+	at app.toque.machine.MachineClient.incoming$lambda$0(MachineClient.kt:42)
+	at app.toque.machine.MachineClient.$r8$lambda$Q5cA_DY2usyU0QNLbdKcmt2ZN8w(Unknown Source:0)
+	at app.toque.machine.MachineClient$$ExternalSyntheticLambda6.handleMessage(D8$$SyntheticClass:0)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6548)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:857)
+
+20/11 18:25:15 [interface] démarrage
+20/11 18:27:00 [interface] démarrage
+20/11 18:27:00 [maj] Toque mis à jour en version 0.5.1-smart.1
+20/11 18:27:00 [machine] boucle démarrée en mode Machine réelle
+20/11 18:27:15 [machine] liaison ouverte : Base moteur (/dev/ttyMT1)
+20/11 18:27:15 [évènement] LINK_CHANGED Connexion…
+20/11 18:27:16 [évènement] LINK_CHANGED Prête
+20/11 18:27:32 [interface] PLANTAGE : java.lang.NullPointerException: Parameter specified as non-null is null: method app.toque.core.machine.Programs.manual, parameter label
+	at app.toque.core.machine.Programs.manual(Unknown Source:17)
+	at app.toque.core.machine.Programs.manual$default(Safety.kt:186)
+	at app.toque.ui.screens.ManualScreen.spec(ManualScreen.kt:169)
+	at app.toque.ui.screens.ManualScreen.spec$default(ManualScreen.kt:169)
+	at app.toque.ui.screens.ManualScreen.refreshHintOnly(ManualScreen.kt:272)
+	at app.toque.ui.screens.ManualScreen.onSnapshot(ManualScreen.kt:258)
+	at app.toque.ui.MainActivity.onStart$lambda$0(MainActivity.kt:110)
+	at app.toque.ui.MainActivity.$r8$lambda$7O1rwZ8ZYwtv5rp1FcRlk4vKPjQ(Unknown Source:0)
+	at app.toque.ui.MainActivity$$ExternalSyntheticLambda20.invoke(D8$$SyntheticClass:0)
+	at app.toque.machine.MachineClient.incoming$lambda$0(MachineClient.kt:42)
+	at app.toque.machine.MachineClient.$r8$lambda$Q5cA_DY2usyU0QNLbdKcmt2ZN8w(Unknown Source:0)
+	at app.toque.machine.MachineClient$$ExternalSyntheticLambda6.handleMessage(D8$$SyntheticClass:0)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6548)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:857)
+
+20/11 18:27:32 [interface] démarrage
+20/11 18:29:23 [interface] démarrage
+20/11 18:29:23 [maj] Toque mis à jour en version 0.5.1-smart.1
+20/11 18:29:23 [machine] boucle démarrée en mode Machine réelle
+20/11 18:29:38 [machine] liaison ouverte : Base moteur (/dev/ttyMT1)
+20/11 18:29:39 [évènement] LINK_CHANGED Connexion…
+20/11 18:29:39 [évènement] LINK_CHANGED Prête
+20/11 18:31:26 [évènement] JOB_STARTED Cuisson manuelle
+20/11 18:31:38 [évènement] JOB_FINISHED Cuisson manuelle
+20/11 18:35:41 [évènement] JOB_STARTED Cuisson manuelle
+20/11 18:36:44 [évènement] JOB_FINISHED Cuisson manuelle

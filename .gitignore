@@ -1,0 +1,37 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+# Clé publique du projet (voir app/build.gradle.kts)
+!app/signature/toque.p12
+# Système
+.DS_Store
+Thumbs.db
+# Ne jamais publier de contenu Lidl (recettes, images, bases)
+Recipes
+Recipes-journal
+recipe_images/
+diagnostic-recettes.txt
+# Édition Ratatouille — usage privé (cahier des charges EX-40) : jamais d'image du pack ni de
+# référence dans le dépôt. Ces dossiers sont en dehors du dépôt (ratatouille/pack-prive,
+# ratatouille/references) ; ces règles bloquent aussi une copie faite par erreur ici.
+pack-prive/
+references/
+/pack/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
